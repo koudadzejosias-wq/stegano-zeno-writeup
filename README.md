@@ -92,4 +92,4 @@ stegseek "Dr. Zeno.jpg" zeno.txt
 cat "Dr. Zeno.jpg.out"
 Conclusion En exploitant l'indice sur la politique de mots de passe du Dr Zeno, nous avons réduit efficacement l'espace de recherche et utilisé une chaîne d'outils parfaitement adaptée (crunch → stegseek/steghide) pour extraire le contenu caché. Le drapeau est récupéré avec une approche simple, reproductible et rationnelle.
 
-Drapeau : IPNET{dUmps73r_d1v1nG_&&_w0rdl1sT_c4N_H3lp_y0u_t0_r3tri3v3_p4ssssw0r$$D}
+
